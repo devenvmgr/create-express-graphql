@@ -93,3 +93,5 @@ dist
 .pnp.*
 
 
+# ignore commit message
+.gitcommit
